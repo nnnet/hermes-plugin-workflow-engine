@@ -1,0 +1,6 @@
+manifest_version: 1
+name: workflow-engine
+kind: engine
+version: 0.1.0
+description: Generic state-machine orchestrator for multi-turn agent workflows.
+author: nnnet/AiManager
